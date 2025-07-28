@@ -1,0 +1,8 @@
+button {
+    background-color: burlywood;
+    color: royalblue;
+    width: 180px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+}
